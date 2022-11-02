@@ -133,4 +133,6 @@ Implement the exit built-in, that exits the shell Usage: exit You don’t have t
 GitHub repository: simple_shell
 
 
-
+Authors
+Henry Oworu
+Adio Adebayo 
